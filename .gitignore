@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow git infrastructure
+!.gitignore
+
+# Allow Claude Code configuration
+!CLAUDE.md
+!.claude/
+!.claude/commands/
+!.claude/commands/*.md
