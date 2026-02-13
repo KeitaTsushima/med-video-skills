@@ -9,3 +9,8 @@
 !.claude/
 !.claude/commands/
 !.claude/commands/*.md
+
+# Allow public documentation
+!docs/
+!docs/**/
+!docs/**/*.md
